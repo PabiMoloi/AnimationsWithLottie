@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/PabiMoloi/AnimationsWithLottie/blob/develop/art/fingerprint.gif)
+
 # Animations With Lottie
 An Android application that makes use of Lottie to load animations. 
 
