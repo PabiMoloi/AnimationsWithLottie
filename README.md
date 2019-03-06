@@ -6,3 +6,8 @@ airbnb/lottie-android
 
 # Lottie Animation Files 
 https://lottiefiles.com/
+
+# Fingerprint Lottie file
+https://lottiefiles.com/user/7852
+
+
